@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1af816a6.css",
+    "main.js": "/static/js/main.a248c7ec.js",
+    "static/media/Rectangle 3.png": "/static/media/Rectangle 3.603f0c62894437b4496c.png",
+    "index.html": "/index.html",
+    "main.1af816a6.css.map": "/static/css/main.1af816a6.css.map",
+    "main.a248c7ec.js.map": "/static/js/main.a248c7ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af816a6.css",
+    "static/js/main.a248c7ec.js"
+  ]
+}
